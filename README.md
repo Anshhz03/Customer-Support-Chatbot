@@ -3,9 +3,8 @@
 A simple airline customer support chatbot built with **Streamlit** and **Google Gemini API**.  
 It corrects user input using **TextBlob**, answers questions conversationally, and can optionally retrieve answers from an FAQ dataset.
 
----
 
-## #️Features
+## Features
 - Conversational replies 
 - Spell correction (TextBlob)
 - Optional FAQ retrieval (Sentence-Transformers + FAISS)
